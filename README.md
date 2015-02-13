@@ -1,5 +1,6 @@
 #Assignment
 This is a sample exercise which is similar to the kind of work you would be doing as an Intern at [Makeystreet](http://www.makeystreet.com).
+
 __Technologies__: Python, Django, REST APIs, GitHub.
 
 __Objective__: Integrate GitHub with a Django application via the GitHub REST API.
@@ -10,8 +11,8 @@ __Environment setup__:
 2. [Register](https://github.com/settings/applications/new) an oAuth application from your Github account
 3. Create a dummy repository on your Github profile for this assignment - We’ll get to what you should do with this later.
 4. Clone this repo and use it for versioning your work. __Don't push it back to GitHub.__ - From here on, commit, version and push everything you do to this repo. __Atleast one commit__ for each specification mentioned below.
+5. Use Django `1.5.9`, PostgreSQL `9.2.7` and Django ORM for db access.
 5. Alright. You're good to go! Now implement the following specs.
-
 
 __Specifications__ - _Start with the first and progress downwards_
 
