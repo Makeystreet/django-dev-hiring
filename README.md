@@ -25,7 +25,7 @@ __Specifications__ - _Start with the first and progress downwards_
 8. Show me a list of all the web hooks events received from my repo in another page.
 9. Test this out with the dummy repository created in Setup step 3.
 10. Send us the link to your Heroku app.
-11. There is another branch on this repo called `merge-me`. Pull, resolve conflict and merge into `master`.
+11. __DONE__
 
 __Extra__
 
